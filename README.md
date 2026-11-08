@@ -719,7 +719,9 @@ O integrante também mencionou formação técnica em Administração, pacote Of
 
 #### Feedback de Petterson Michel Lima Aguilar
 
-**Avaliação:** [A preencher por Petterson Michel Lima Aguilar.]
+**Avaliação:** O Albert demonstrou um conhecimento profundo sobre a minimização de dados, os riscos éticos de ferramentas de IA e os limites legais de armazenamento. Essa capacidade de traduzir obrigações legais (como o expurgo de dados sensíveis e o direito à revisão) em requisitos de sistema é uma habilidade muito valorizada na Engenharia de Dados. Como ponto de melhoria, acho que poderia ter conectado essas regras mais diretamente com a implementação técnica, detalhando como o script de exclusão (hard delete) ou a anonimização funcionariam na prática dentro do nosso banco de dados ou orquestrador de pipeline.
+
+Para o capítulo 8.2.4 (Gabriel - Engenharia de Dados):
 
 #### Feedback de Samuel Carmoni de Oliveira
 
@@ -759,7 +761,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Petterson Michel Lima Aguilar
 
-**Avaliação:** [A preencher por Petterson Michel Lima Aguilar.]
+**Avaliação:** Excelente pensamento sistêmico e capacidade analítica na concepção da arquitetura do projeto. Estruturou muito bem a divisão entre o processamento pesado (filas assíncronas) e a interface (API), apoiado por um diagrama claro. Como ponto de melhoria, o poderia ter incluido mais da especificação técnica das tecnologias exatas de infraestrutura em nuvem e mensageria que suportariam essa arquitetura.
 
 #### Feedback de Samuel Carmoni de Oliveira
 
@@ -796,7 +798,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Petterson Michel Lima Aguilar
 
-**Avaliação:** [A preencher por Petterson Michel Lima Aguilar.]
+**Avaliação:** O João Pedro trouxe alta maturidade estratégica ao conectar o processamento de modelos de Inteligência Artificial com métricas de impacto ambiental e TI Verde (como o Software Carbon Intensity). Como ponto de melhoria, poderia detalhar mais matematicamente e tecnicamente o funcionamento dos algoritmos de IA, as arquiteturas de redes neurais, as métricas de performance e os vieses dos modelos.
 
 #### Feedback de Samuel Carmoni de Oliveira
 
@@ -875,7 +877,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Petterson Michel Lima Aguilar
 
-**Avaliação:** [A preencher por Petterson Michel Lima Aguilar.]
+**Avaliação:** O Samuel brilhou na execução da acessibilidade com forte empatia pelo usuário final (idosos, baixa conectividade). Aplicou de forma inteligente o conceito de "Segurança Utilizável", como o uso de tokens secretos que dispensam a criação de contas. Como ponto de melhoria, faltou detalhar as camadas técnicas rígidas de proteção de infraestrutura, como o gerenciamento de criptografia em repouso, regras de WAF, proteção contra DDoS e defesas contra ataques adversariais aos modelos de IA.
 
 ## 9. Referências
 
