@@ -753,7 +753,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Albert dos Santos Mariano
 
-**Avaliação:** [A preencher por Albert dos Santos Mariano.]
+**Avaliação:** O Gabriel demonstrou excelente iniciativa e responsabilidade técnica ao assumir as seções 1 e 2 do projeto, englobando a pesquisa de levantamentos, comparação de iniciativas, jornadas de usuário e a arquitetura de processamento e armazenamento. Sua familiaridade prévia com APIs, desenvolvimento backend e Git estruturou muito bem a base técnica do trabalho. Como ponto de desenvolvimento e sugestão para as metas futuras, vale a pena aprofundar os estudos em SQL avançado, Power BI e operações em nuvem (pipelines), além de continuar expandindo o networking técnico para consolidar ainda mais sua carreira na área de dados.
 
 #### Feedback de João Pedro Theodoro de Sousa Andrade
 
@@ -790,7 +790,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Albert dos Santos Mariano
 
-**Avaliação:** [A preencher por Albert dos Santos Mariano.]
+**Avaliação:** O João Pedro teve um papel fundamental na organização e estruturação do documento principal do projeto, além de conduzir com muita competência a seção de sustentabilidade (TI Verde), custos e impacto ambiental. Sua abordagem trouxe maturidade estratégica ao conectar o processamento de modelos de IA com métricas de impacto real e eficiência energética. Como sugestão de crescimento, vale a pena continuar aprimorando a comunicação dos resultados e aprofundar os estudos práticos de mensuração de consumo e custos em nuvem para deixar as estimativas ainda mais precisas e técnicas.
 
 #### Feedback de Gabriel Anjos Albuquerque
 
@@ -828,7 +828,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Albert dos Santos Mariano
 
-**Avaliação:** [A preencher por Albert dos Santos Mariano.]
+**Avaliação:** O Petterson contribuiu de forma muito sólida para o planejamento do projeto, especialmente na definição dos indicadores de impacto, monitoramento de pipeline e no quadro de decisões tecnológicas. Seu foco em arquiteturas assíncronas e busca por similaridade agregou muita visão sistêmica à solução. Como ponto de melhoria e desenvolvimento, é recomendado intensificar a prática em Python, SQL relacional e construção de pipelines de dados, aliando esses conhecimentos a uma documentação técnica mais detalhada para robustecer ainda mais seu portfólio.
 
 #### Feedback de Gabriel Anjos Albuquerque
 
@@ -865,7 +865,7 @@ Como contexto profissional autodeclarado, o integrante informou formação técn
 
 #### Feedback de Albert dos Santos Mariano
 
-**Avaliação:** [A preencher por Albert dos Santos Mariano.]
+**Avaliação:** O Samuel conduziu com muita empatia e rigor a seção de acessibilidade e inclusão digital, pensando em barreiras enfrentadas por idosos, pessoas com deficiência e usuários com conexão limitada. A aplicação do conceito de "Segurança Útil" demonstrou uma preocupação genuína em unir usabilidade e proteção. Como sugestão para os próximos passos, vale a pena aprofundar os estudos práticos em segurança de aplicações web, validação de assinaturas digitais (C2PA) e testes de usabilidade com ferramentas de acessibilidade, fortalecendo sua atuação na área de cibersegurança.
 
 #### Feedback de Gabriel Anjos Albuquerque
 
