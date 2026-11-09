@@ -405,6 +405,8 @@ O VerificaBR pode tratar dados de quem envia a mídia **e de terceiros** nela id
 
 > O VerificaBR é uma proposta acadêmica de verificação assistida de áudios e vídeos potencialmente manipulados. A plataforma pretende reunir registros de origem, sinais técnicos e checagens publicadas, indicando também o que não consegue verificar. Resultados automáticos não são provas de verdade ou falsidade. Casos relevantes poderão passar por revisão humana, e o usuário poderá contestar conclusões. Privacidade, acessibilidade e transparência são requisitos do projeto, ainda não validado em produção.
 
+**Contagem:** 505 caracteres.
+
 ## 4. Acessibilidade e inclusão digital
 
 **Responsável:** Samuel Carmoni de Oliveira
